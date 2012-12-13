@@ -1,0 +1,718 @@
+ID,Database,Name,Table,Description
+1806,cpw_CouplesSelfExpansion,CoupleID,Background,Couple ID
+1807,cpw_CouplesSelfExpansion,UserID,Background,Participant ID
+1808,cpw_CouplesSelfExpansion,PartnerID,Background,Partner ID
+1809,cpw_CouplesSelfExpansion,RecordID,Background,RecordID
+1810,cpw_CouplesSelfExpansion,StartDate,Background,StartDate
+1811,cpw_CouplesSelfExpansion,StartTime,Background,StartTime
+1812,cpw_CouplesSelfExpansion,Consent,Background,QuestionID1
+1813,cpw_CouplesSelfExpansion,SelfExpansion1,Background,How much does being with your partner result in your having new experiences?
+1814,cpw_CouplesSelfExpansion,SelfExpansion2,Background,"When you are with your partner, do you feel a greater awareness of things because of him or her?"
+1815,cpw_CouplesSelfExpansion,SelfExpansion3,Background,How much does your partner increase your ability to accomplish new things?
+1816,cpw_CouplesSelfExpansion,SelfExpansion4,Background,How much does being with your partner make you more appealing to potential future mates?
+1817,cpw_CouplesSelfExpansion,SelfExpansion5,Background,How much does your partner help to expand your sense of the kind of person you are?
+1818,cpw_CouplesSelfExpansion,SelfExpansion6,Background,How much do you see your partner as a way to expand your own capabilities?
+1819,cpw_CouplesSelfExpansion,SelfExpansion7,Background,Do you often learn new things about your partner?
+1820,cpw_CouplesSelfExpansion,SelfExpansion8,Background,How much does your partner provide a source of exciting experiences?
+1821,cpw_CouplesSelfExpansion,SelfExpansion9,Background,"How much do your partner’s strengths as a person (skills, abilities, etc.) compensate for some of yo"
+1822,cpw_CouplesSelfExpansion,SelfExpansion10,Background,How much do you feel that you have a larger perspective on things because of your partner?
+1823,cpw_CouplesSelfExpansion,SelfExpansion11,Background,How much has being with your partner resulted in your learning new things?
+1824,cpw_CouplesSelfExpansion,SelfExpansion12,Background,How much has knowing your partner made you a better person?
+1825,cpw_CouplesSelfExpansion,SelfExpansion13,Background,How much does being with your partner increase the respect other people have for you?  
+1826,cpw_CouplesSelfExpansion,SelfExpansion14,Background,How much does your partner increase your knowledge?
+1827,cpw_CouplesSelfExpansion,ExcitingActivities1,Background,How exciting are the things you have been doing together with your partner in the past 2 months?
+1828,cpw_CouplesSelfExpansion,ExcitingActivities2,Background,"Considering the last 2 months, please rate the degree to which you and your partner have participate"
+1829,cpw_CouplesSelfExpansion,PerceivedRelQuality1,Background,How satisfied are you with your relationship?
+1830,cpw_CouplesSelfExpansion,PerceivedRelQuality2,Background,How content are you with your relationship?
+1831,cpw_CouplesSelfExpansion,PerceivedRelQuality3,Background,How happy are you with your relationship?
+1832,cpw_CouplesSelfExpansion,PerceivedRelQuality4,Background,How committed are you to your relationship?
+1833,cpw_CouplesSelfExpansion,PerceivedRelQuality5,Background,How dedicated are you to your relationship?
+1834,cpw_CouplesSelfExpansion,PerceivedRelQuality6,Background,How devoted are you to your relationship?
+1835,cpw_CouplesSelfExpansion,PerceivedRelQuality7,Background,How intimate is your relationship?
+1836,cpw_CouplesSelfExpansion,PerceivedRelQuality8,Background,How close is your relationship?
+1837,cpw_CouplesSelfExpansion,PerceivedRelQuality9,Background,How connected are you to your partner?
+1838,cpw_CouplesSelfExpansion,PerceivedRelQuality10,Background,How much do you trust your partner?
+1839,cpw_CouplesSelfExpansion,PerceivedRelQuality11,Background,How much can you count on your partner?
+1840,cpw_CouplesSelfExpansion,PerceivedRelQuality12,Background,How dependable is your partner?
+1841,cpw_CouplesSelfExpansion,PerceivedRelQuality13,Background,How passionate is your relationship?
+1842,cpw_CouplesSelfExpansion,PerceivedRelQuality14,Background,How lustful is your relationship?
+1843,cpw_CouplesSelfExpansion,PerceivedRelQuality15,Background,How sexually intense is your relationship?
+1844,cpw_CouplesSelfExpansion,PerceivedRelQuality16,Background,How much do you love your partner?
+1845,cpw_CouplesSelfExpansion,PerceivedRelQuality17,Background,How much do you adore your partner?
+1846,cpw_CouplesSelfExpansion,PerceivedRelQuality18,Background,How much do you cherish your partner?
+1847,cpw_CouplesSelfExpansion,IOS,Background,"Above are seven pairs of circles. The left circle represents you, the right circle represents your p"
+1848,cpw_CouplesSelfExpansion,CommunalStrength1,Background,How far would you be willing to go to visit your romantic partner?
+1849,cpw_CouplesSelfExpansion,CommunalStrength2,Background,How happy do you feel when doing something that helps your romantic partner?
+1850,cpw_CouplesSelfExpansion,CommunalStrength3,Background,How large a benefit would you be likely to give to your romantic partner?
+1851,cpw_CouplesSelfExpansion,CommunalStrength4,Background,How large a cost would you incur to meet a need of your romantic partner?
+1852,cpw_CouplesSelfExpansion,CommunalStrength5,Background,How readily can you put the needs of your romantic partner out of your thoughts?
+1853,cpw_CouplesSelfExpansion,CommunalStrength6,Background,How high a priority for you is meeting the needs of your romantic partner?
+1854,cpw_CouplesSelfExpansion,CommunalStrength7,Background,How reluctant would you be to sacrifice for your romantic partner?
+1855,cpw_CouplesSelfExpansion,CommunalStrength8,Background,How much would you be willing to give up to benefit your romantic partner?
+1856,cpw_CouplesSelfExpansion,CommunalStrength9,Background,How far would you go out of your way to do something for your romantic partner?
+1857,cpw_CouplesSelfExpansion,CommunalStrength10,Background,How easily could you accept not helping your romantic partner?
+1858,cpw_CouplesSelfExpansion,Appreciation1,Background,I tell my partner often that s/he is the best.
+1859,cpw_CouplesSelfExpansion,Appreciation2,Background,I often tell my partner how much I appreciate her/him.
+1860,cpw_CouplesSelfExpansion,Appreciation3,Background,I feel very lucky to have my partner in my life.
+1861,cpw_CouplesSelfExpansion,Appreciation4,Background,At times I take my partner for granted.
+1862,cpw_CouplesSelfExpansion,Appreciation5,Background,I appreciate my partner.
+1863,cpw_CouplesSelfExpansion,Appreciation6,Background,Sometimes I don’t really acknowledge or treat my partner like s/he is someone special. 
+1864,cpw_CouplesSelfExpansion,Appreciation7,Background,I remind myself daily how lucky I am to have my partner.
+1865,cpw_CouplesSelfExpansion,Appreciation8,Background,I make sure my partner feels appreciated.
+1866,cpw_CouplesSelfExpansion,Appreciation9,Background,My partner sometimes says that I fail to notice the nice things that s/he does for me. 
+1867,cpw_CouplesSelfExpansion,Appreciation10,Background,"I acknowledge the things that my partner does for me, even the really small things."
+1868,cpw_CouplesSelfExpansion,Appreciation11,Background,I am sometimes struck with a sense of awe and wonder when I think about my partner being in my life.
+1869,cpw_CouplesSelfExpansion,Appreciation12,Background,My partner makes sure I feel appreciated.
+1870,cpw_CouplesSelfExpansion,Appreciation13,Background,"When I am with my partner, sometimes s/he will look at me excitedly and tell me how much s/he apprec"
+1871,cpw_CouplesSelfExpansion,Appreciation14,Background,My partner often tells me the things that s/he really likes about me.
+1872,cpw_CouplesSelfExpansion,Appreciation15,Background,At times my partner takes me for granted. 
+1873,cpw_CouplesSelfExpansion,Appreciation16,Background,"My partner often expresses her/his thanks when I do something nice, even if it’s really small."
+1874,cpw_CouplesSelfExpansion,Appreciation17,Background,My partner doesn’t notice when I do nice things for her/him. 
+1875,cpw_CouplesSelfExpansion,Appreciation18,Background,My partner makes me feel special.
+1876,cpw_CouplesSelfExpansion,RelGoals1,Background,"I will be trying to avoid getting embarrassed, betrayed, or hurt by my romantic partner."
+1877,cpw_CouplesSelfExpansion,RelGoals2,Background,I will be trying to enhance the bonding and intimacy in my romantic relationship.
+1878,cpw_CouplesSelfExpansion,RelGoals3,Background,I will be trying to avoid disagreements and conflicts with my romantic partner.
+1879,cpw_CouplesSelfExpansion,RelGoals4,Background,I will be trying to deepen my relationship with my romantic partner.
+1880,cpw_CouplesSelfExpansion,RelGoals5,Background,I will be trying to make sure that nothing bad happens in my romantic relationship.
+1881,cpw_CouplesSelfExpansion,RelGoals6,Background,I will be trying to share many fun and meaningful experiences with my romantic partner.
+1882,cpw_CouplesSelfExpansion,RelGoals7,Background,I will be trying to stay away from situations that could harm my romantic relationship.
+1883,cpw_CouplesSelfExpansion,RelGoals8,Background,I will be trying to move toward growth and development in my romantic relationship.
+1884,cpw_CouplesSelfExpansion,GoalCompatibility1,Background,Sometimes I feel like my goals are incompatible with my partner’s goals.
+1885,cpw_CouplesSelfExpansion,GoalCompatibility2,Background,"Overall, I feel that my partner and I have compatible goals."
+1886,cpw_CouplesSelfExpansion,GoalCompatibility3,Background,Making decisions with my partner can be difficult because we have very different goals.
+1887,cpw_CouplesSelfExpansion,GoalProgressSatisfaction,Background,I am satisfied with my progress with my goals.
+1888,cpw_CouplesSelfExpansion,GoalCompatibility4,Background,"When I try to pursue my goals, my partner and I often get into arguments or disagreements."
+1889,cpw_CouplesSelfExpansion,GoalCompatibility5,Background,My partner and I have many shared goals.
+1890,cpw_CouplesSelfExpansion,GoalCompatibility6,Background,I rarely feel like my partner’s goals conflict with my own goals.
+1891,cpw_CouplesSelfExpansion,RelInterdependence1,Background,My close relationships are an important reflection of who I am.
+1892,cpw_CouplesSelfExpansion,RelInterdependence2,Background,"When I feel very close to someone, it often feels to me like that person is an important part of who"
+1893,cpw_CouplesSelfExpansion,RelInterdependence3,Background,I usually feel a strong sense of pride when someone close to me has an important accomplishment.
+1894,cpw_CouplesSelfExpansion,RelInterdependence4,Background,I think one of the most important parts of who I am can be captured by looking at my close friends a
+1895,cpw_CouplesSelfExpansion,RelInterdependence5,Background,"When I think of myself, I often think of my close friends or family also."
+1896,cpw_CouplesSelfExpansion,RelInterdependence6,Background,"If a person hurts someone close to me, I feel personally hurt as well."
+1897,cpw_CouplesSelfExpansion,RelInterdependence7,Background,"In general, my close relationships are an important part of my self-image."
+1898,cpw_CouplesSelfExpansion,RelInterdependence8,Background,"Overall, my close relationships have very little to do with how I feel about myself."
+1899,cpw_CouplesSelfExpansion,RelInterdependence9,Background,My close relationships are unimportant to my sense of what kind of person I am.
+1900,cpw_CouplesSelfExpansion,RelInterdependence10,Background,My sense of pride comes from knowing who I have as close friends.
+1901,cpw_CouplesSelfExpansion,RelInterdependence11,Background,"When I establish a close friendship with someone, I usually develop a strong sense of identification"
+1902,cpw_CouplesSelfExpansion,PassionateLove1,Background,I would feel deep despair if my partner left me.
+1903,cpw_CouplesSelfExpansion,PassionateLove2,Background,Sometimes I feel I can’t control my thoughts; they are obsessively on my partner.
+1904,cpw_CouplesSelfExpansion,PassionateLove3,Background,I feel happy when I am doing something to make my partner happy. 
+1905,cpw_CouplesSelfExpansion,PassionateLove4,Background,I would rather be with my partner than anyone else.
+1906,cpw_CouplesSelfExpansion,PassionateLove5,Background,I’d get jealous if I thought my partner were falling in love with someone else.
+1907,cpw_CouplesSelfExpansion,PassionateLove6,Background,I yearn to know all about my partner. 
+1908,cpw_CouplesSelfExpansion,PassionateLove7,Background,"I want my partner physically, emotionally, mentally. "
+1909,cpw_CouplesSelfExpansion,PassionateLove8,Background,I have an endless appetite for affection from my partner. 
+1910,cpw_CouplesSelfExpansion,PassionateLove9,Background,"For me, my partner is the perfect romantic partner. "
+1911,cpw_CouplesSelfExpansion,PassionateLove10,Background,I sense my body responding when my partner touches me. 
+1912,cpw_CouplesSelfExpansion,PassionateLove11,Background,My partner always seems to be on my mind. 
+1913,cpw_CouplesSelfExpansion,PassionateLove12,Background,"I want my partner to know me--my thoughts, my fears, and my hopes. "
+1914,cpw_CouplesSelfExpansion,PassionateLove13,Background,I eagerly look for signs indicating my partner’s desire for me.
+1915,cpw_CouplesSelfExpansion,PassionateLove14,Background,I possess a powerful attraction for my partner. 
+1916,cpw_CouplesSelfExpansion,PassionateLove15,Background,I get extremely depressed when things don't go right in my relationship with my partner.
+1917,cpw_CouplesSelfExpansion,InitiatorSelf1,Background,"When discussing a relationship problem, I usually try to keep the discussion going until we settle t"
+1918,cpw_CouplesSelfExpansion,InitiatorSelf2,Background,I usually express my feelings about our relationship to my partner.
+1919,cpw_CouplesSelfExpansion,InitiatorSelf3,Background,I usually keep my feelings about our relationship private and do not share them with my partner.
+1920,cpw_CouplesSelfExpansion,InitiatorSelf4,Background,"When I become aware of a problem in our relationship, I usually do not say anything about it."
+1921,cpw_CouplesSelfExpansion,InitiatorSelf5,Background,I am the kind of person who generally feels comfortable discussing relationship problems.
+1922,cpw_CouplesSelfExpansion,InitiatorSelf6,Background,"When my partner wants to talk about a relationship problem, I am usually ready to do so as well."
+1923,cpw_CouplesSelfExpansion,InitiatorSelf7,Background,I usually become silent or refuse to discuss a relationship problem further if my partner pressures 
+1924,cpw_CouplesSelfExpansion,InitiatorSelf8,Background,"When my partner wants to talk about a relationship problem, I usually try to get out of the discussi"
+1925,cpw_CouplesSelfExpansion,InitiatorSelf9,Background,"When I become aware of a problem in our relationship, I usually try to start a discussion of that pr"
+1926,cpw_CouplesSelfExpansion,InitiatorSelf10,Background,I am the kind of person who generally does not feel comfortable discussing relationship problems.
+1927,cpw_CouplesSelfExpansion,InitiatorPartner1,Background,"When I want to talk about a relationship problem, my partner usually tries to get out of the discuss"
+1928,cpw_CouplesSelfExpansion,InitiatorPartner2,Background,My partner usually expresses any feelings about our relationship to me.
+1929,cpw_CouplesSelfExpansion,InitiatorPartner3,Background,My partner is the kind of person who generally feels comfortable discussing relationship problems.
+1930,cpw_CouplesSelfExpansion,InitiatorPartner4,Background,"When my partner becomes aware of a problem in our relationship, my partner usually tries to start a "
+1931,cpw_CouplesSelfExpansion,InitiatorPartner5,Background,"When discussing a relationship problem, my partner usually tries to keep the discussion going until "
+1932,cpw_CouplesSelfExpansion,InitiatorPartner6,Background,"If my partner and I are discussing an important relationship issue, my partner usually tries to keep"
+1933,cpw_CouplesSelfExpansion,InitiatorPartner7,Background,My partner usually keeps feelings about our relationship private and does not share them with me.
+1934,cpw_CouplesSelfExpansion,InitiatorPartner8,Background,My partner is the kind of person who generally does not feel comfortable discussing relationship pro
+1935,cpw_CouplesSelfExpansion,InitiatorPartner9,Background,"When my partner becomes aware of a problem in our relationship, my partner usually does not say anyt"
+1936,cpw_CouplesSelfExpansion,InitiatorPartner10,Background,"When I want to talk about a relationship problem, my partner is usually ready to do so as well."
+1937,cpw_CouplesSelfExpansion,SexualCommunalStrength1,Background,How far would you be willing to go to meet your partner's sexual needs?
+1938,cpw_CouplesSelfExpansion,SexualCommunalStrength2,Background,How readily can you put the sexual needs of your partner out of your thoughts?
+1939,cpw_CouplesSelfExpansion,SexualCommunalStrength3,Background,How high a priority for you is meeting the sexual needs of your partner?
+1940,cpw_CouplesSelfExpansion,SexualCommunalStrength4,Background,How easily could you accept not meeting your partner's sexual needs?
+1941,cpw_CouplesSelfExpansion,SexualCommunalStrength5,Background,How likely are you to sacrifice your own needs to meet the sexual needs of your partner?
+1942,cpw_CouplesSelfExpansion,SexualCommunalStrength6,Background,How happy do you feel when satisfying your partner's sexual needs?
+1943,cpw_CouplesSelfExpansion,SexualFrequency1,Background,"On average, how many times per month do you and your partner have sex?"
+1944,cpw_CouplesSelfExpansion,SexualImportance1,Background,How important is sex to you?
+1945,cpw_CouplesSelfExpansion,SexualDesire1,Background,Just thinking about having sex with my partner excites me. 
+1946,cpw_CouplesSelfExpansion,SexualDesire2,Background,I try to avoid having sex with my partner. 
+1947,cpw_CouplesSelfExpansion,SexualDesire3,Background,I daydream about sex. 
+1948,cpw_CouplesSelfExpansion,SexualDesire4,Background,It is difficult for me to get in a sexual mood. 
+1949,cpw_CouplesSelfExpansion,SexualDesire5,Background,I desire sex more than my partner does
+1950,cpw_CouplesSelfExpansion,SexualDesire6,Background,It is hard for me to fantasize about sexual things.
+1951,cpw_CouplesSelfExpansion,SexualDesire7,Background,I look forward to having sex with my partner. 
+1952,cpw_CouplesSelfExpansion,SexualDesire8,Background,I have a huge appetite for sex. 
+1953,cpw_CouplesSelfExpansion,SexualDesire9,Background,I enjoy using sexual fantasy during sex with my partner. 
+1954,cpw_CouplesSelfExpansion,SexualDesire10,Background,It is easy for me to get in the mood for sex. 
+1955,cpw_CouplesSelfExpansion,SexualDesire11,Background,My desire for sex should be stronger.
+1956,cpw_CouplesSelfExpansion,SexualDesire12,Background,I enjoy thinking about sex. 
+1957,cpw_CouplesSelfExpansion,SexualDesire13,Background,I desire sex.
+1958,cpw_CouplesSelfExpansion,SexualDesire14,Background,It is easy for me to go weeks without having sex with my partner.
+1959,cpw_CouplesSelfExpansion,SexualDesire15,Background,I feel I want sex less than most people.
+1960,cpw_CouplesSelfExpansion,SexualDesire16,Background,It is easy for me to create sexual fantasies in my mind.
+1961,cpw_CouplesSelfExpansion,SexualDesire17,Background,I have a strong sex drive.
+1962,cpw_CouplesSelfExpansion,SexualDesire18,Background,I enjoy thinking about having sex with my partner.
+1963,cpw_CouplesSelfExpansion,SexualDesire19,Background,My desire for sex with my partner is strong.
+1964,cpw_CouplesSelfExpansion,SexualDesire20,Background,I feel that sex is not an important aspect of the relationship I share with my partner.
+1965,cpw_CouplesSelfExpansion,SexualDesire21,Background,I think my energy level for sex with my partner is too low.
+1966,cpw_CouplesSelfExpansion,SexualDesire22,Background,It is hard for me to get in the mood for sex.
+1967,cpw_CouplesSelfExpansion,SexualDesire23,Background,I lack the desire necessary to pursue sex with my partner.
+1968,cpw_CouplesSelfExpansion,SexualSatisfaction1,Background,I feel that my partner enjoys our sex life.
+1969,cpw_CouplesSelfExpansion,SexualSatisfaction2,Background,Our sex life is very exciting.
+1970,cpw_CouplesSelfExpansion,SexualSatisfaction3,Background,Sex is fun for my partner and me.
+1971,cpw_CouplesSelfExpansion,SexualSatisfaction4,Background,Sex with my partner has become a chore for me. 
+1972,cpw_CouplesSelfExpansion,SexualSatisfaction5,Background,I feel that our sex life is dirty and disgusting. 
+1973,cpw_CouplesSelfExpansion,SexualSatisfaction6,Background,Our sex life is monotonous. 
+1974,cpw_CouplesSelfExpansion,SexualSatisfaction7,Background,When we have sex it is too rushed and hurriedly completed. 
+1975,cpw_CouplesSelfExpansion,SexualSatisfaction8,Background,I feel that my sex life is lacking in quality. 
+1976,cpw_CouplesSelfExpansion,SexualSatisfaction9,Background,My partner is sexually very exciting.
+1977,cpw_CouplesSelfExpansion,SexualSatisfaction10,Background,I enjoy the sex techniques that my partner likes or uses.
+1978,cpw_CouplesSelfExpansion,SexualSatisfaction11,Background,I feel that my partner wants too much sex from me. 
+1979,cpw_CouplesSelfExpansion,SexualSatisfaction12,Background,I think our sex is wonderful.
+1980,cpw_CouplesSelfExpansion,SexualSatisfaction13,Background,My partner dwells on sex too much. 
+1981,cpw_CouplesSelfExpansion,SexualSatisfaction14,Background,I try to avoid sexual contact with my partner. 
+1982,cpw_CouplesSelfExpansion,SexualSatisfaction15,Background,My partner is too rough or brutal when we have sex. 
+1983,cpw_CouplesSelfExpansion,SexualSatisfaction16,Background,My partner is a wonderful sex mate.
+1984,cpw_CouplesSelfExpansion,SexualSatisfaction17,Background,I feel that our sex life is a normal function of our relationship.
+1985,cpw_CouplesSelfExpansion,SexualSatisfaction18,Background,My partner does not want sex when I do. 
+1986,cpw_CouplesSelfExpansion,SexualSatisfaction19,Background,I feel that our sex life really adds a lot to our relationship.
+1987,cpw_CouplesSelfExpansion,SexualSatisfaction20,Background,My partner seems to avoid sexual contact with me. 
+1988,cpw_CouplesSelfExpansion,SexualSatisfaction21,Background,It is easy for me to get sexually excited by my partner.
+1989,cpw_CouplesSelfExpansion,SexualSatisfaction22,Background,I feel that my partner is sexually pleased with me
+1990,cpw_CouplesSelfExpansion,SexualSatisfaction23,Background,My partner is very sensitive to my sexual needs and desires.
+1991,cpw_CouplesSelfExpansion,SexualSatisfaction24,Background,My partner does not satisfy me sexually. 
+1992,cpw_CouplesSelfExpansion,SexualSatisfaction25,Background,I feel that my sex life is boring.
+1993,cpw_CouplesSelfExpansion,PersonalExpansion1,Background,I am always interested in finding new things to try
+1994,cpw_CouplesSelfExpansion,PersonalExpansion2,Background,I usually seek out new opportunities or experiences
+1995,cpw_CouplesSelfExpansion,PersonalExpansion3,Background,I generally prefer to have more familiarity and stability 
+1996,cpw_CouplesSelfExpansion,PersonalExpansion4,Background,Trying new things is important for me to stay happy
+1997,cpw_CouplesSelfExpansion,PersonalExpansion5,Background,I place a lot of importance on experiencing new things
+1998,cpw_CouplesSelfExpansion,PersonalExpansion6,Background,I enjoy gaining a more thorough understanding of something I already know
+1999,cpw_CouplesSelfExpansion,PersonalExpansion7,Background,"Once I have a basic understanding of something, I do not feel it is necessary to learn more about it"
+2000,cpw_CouplesSelfExpansion,PersonalExpansion8,Background,Trying to learn more about something I already understand is usually not worth the effort 
+2001,cpw_CouplesSelfExpansion,PersonalExpansion9,Background,Exploring something in depth is usually pretty tedious and boring 
+2002,cpw_CouplesSelfExpansion,PersonalExpansion10,Background,There are better ways to spend my time than trying to learn more about something I basically underst
+2003,cpw_CouplesSelfExpansion,CommunalOrientation1,Background,It bothers me when other people neglect my needs.
+2004,cpw_CouplesSelfExpansion,CommunalOrientation2,Background,"When making a decision, I take other people's needs and feelings into account."
+2005,cpw_CouplesSelfExpansion,CommunalOrientation3,Background,I'm not especially sensitive to other people's feelings.
+2006,cpw_CouplesSelfExpansion,CommunalOrientation4,Background,I don't consider myself to be a particularly helpful person.
+2007,cpw_CouplesSelfExpansion,CommunalOrientation5,Background,I believe people should go out of their way to be helpful.
+2008,cpw_CouplesSelfExpansion,CommunalOrientation6,Background,I don't especially enjoy giving others aid.
+2009,cpw_CouplesSelfExpansion,CommunalOrientation7,Background,I expect people I know to be responsive to my needs and feelings. 
+2010,cpw_CouplesSelfExpansion,CommunalOrientation8,Background,I often go out of my way to help another person.
+2011,cpw_CouplesSelfExpansion,CommunalOrientation9,Background,I believe it's best not to get involved taking care of other people's personal needs.
+2012,cpw_CouplesSelfExpansion,CommunalOrientation10,Background,I'm not the sort of person who often comes to the aid of others.
+2013,cpw_CouplesSelfExpansion,CommunalOrientation11,Background,"When I have a need, I turn to others I know for help."
+2014,cpw_CouplesSelfExpansion,ATTENTION_CHECK,Background,Answer Extremely Uncharacteristic for this question.
+2015,cpw_CouplesSelfExpansion,CommunalOrientation12,Background,"When people get emotionally upset, I tend to avoid them."
+2016,cpw_CouplesSelfExpansion,CommunalOrientation13,Background,People should keep their troubles to themselves.
+2017,cpw_CouplesSelfExpansion,CommunalOrientation14,Background,"When I have a need that others ignore, I'm hurt. "
+2018,cpw_CouplesSelfExpansion,SWL1,Background,In most ways my life is close to my ideal.
+2019,cpw_CouplesSelfExpansion,SWL2,Background,The conditions of my life are excellent.
+2020,cpw_CouplesSelfExpansion,SWL3,Background,I am satisfied with my life. 
+2021,cpw_CouplesSelfExpansion,SWL4,Background,So far I have gotten the important things I want in life. 
+2022,cpw_CouplesSelfExpansion,SWL5,Background,"If I could live my life over, I would change almost nothing. "
+2023,cpw_CouplesSelfExpansion,UnmitigatedCommunion1,Background,I always place the needs of others above my own.
+2024,cpw_CouplesSelfExpansion,UnmitigatedCommunion2,Background,I never find myself getting overly involved in others' problems.
+2025,cpw_CouplesSelfExpansion,UnmitigatedCommunion3,Background,"For me to be happy, I need others to be happy."
+2026,cpw_CouplesSelfExpansion,UnmitigatedCommunion4,Background,I worry about how other people get along without me when I am not there.
+2027,cpw_CouplesSelfExpansion,UnmitigatedCommunion5,Background,I have no trouble getting to sleep at night when other people are upset.
+2028,cpw_CouplesSelfExpansion,UnmitigatedCommunion6,Background,It is impossible for me to satisfy my own needs when they interfere with the needs of others.
+2029,cpw_CouplesSelfExpansion,UnmitigatedCommunion7,Background,I can't say no when someone asks me for help.
+2030,cpw_CouplesSelfExpansion,UnmitigatedCommunion8,Background,"Even when exhausted, I will always help other people."
+2031,cpw_CouplesSelfExpansion,UnmitigatedCommunion9,Background,I often worry about others' problems.
+2032,cpw_CouplesSelfExpansion,BFI1,Background,"Extraverted, enthusiastic."
+2033,cpw_CouplesSelfExpansion,BFI2,Background,"Critical, quarrelsome."
+2034,cpw_CouplesSelfExpansion,BFI3,Background,"Dependable, self-disciplined."
+2035,cpw_CouplesSelfExpansion,BFI4,Background,"Anxious, easily upset."
+2036,cpw_CouplesSelfExpansion,BFI5,Background,"Open to new experiences, complex."
+2037,cpw_CouplesSelfExpansion,BFI6,Background,"Reserved, quiet."
+2038,cpw_CouplesSelfExpansion,BFI7,Background,"Sympathetic, warm."
+2039,cpw_CouplesSelfExpansion,BFI8,Background,"Disorganized, careless."
+2040,cpw_CouplesSelfExpansion,BFI9,Background,"Calm, emotionally stable."
+2041,cpw_CouplesSelfExpansion,BFI10,Background,"Conventional, uncreative."
+2042,cpw_CouplesSelfExpansion,Attachment1,Background,It helps to turn to my romantic partner in times of need.
+2043,cpw_CouplesSelfExpansion,Attachment2,Background,I need a lot of reassurance that I am loved by my partner.
+2044,cpw_CouplesSelfExpansion,Attachment3,Background,"I want to get close to my partner, but I keep pulling back."
+2045,cpw_CouplesSelfExpansion,Attachment4,Background,I find that my partner doesn't want to get as close as I would like.
+2046,cpw_CouplesSelfExpansion,Attachment5,Background,"I turn to my partner for many things, including comfort and reassurance."
+2047,cpw_CouplesSelfExpansion,Attachment6,Background,My desire to be very close sometimes scares people away.
+2048,cpw_CouplesSelfExpansion,Attachment7,Background,I try to avoid getting too close to my partner.
+2049,cpw_CouplesSelfExpansion,Attachment8,Background,I often worry about being abandoned.
+2050,cpw_CouplesSelfExpansion,Attachment9,Background,I usually discuss my problems and concerns with my partner.
+2051,cpw_CouplesSelfExpansion,Attachment10,Background,I get frustrated if my romantic partner is not available when I need him/her.
+2052,cpw_CouplesSelfExpansion,Attachment11,Background,I am nervous when my partner gets too close to me.
+2053,cpw_CouplesSelfExpansion,Attachment12,Background,I worry that my romantic partner won't care about me as much as I care about him/her.
+2054,cpw_CouplesSelfExpansion,Email,Background,What is your email address?
+2055,cpw_CouplesSelfExpansion,Age,Background,What is your age?
+2056,cpw_CouplesSelfExpansion,NativeLanguage,Background,What is your native language?
+2057,cpw_CouplesSelfExpansion,PlaceBorn,Background,Where where you born?
+2058,cpw_CouplesSelfExpansion,LanguagesSpokenFluently,Background,What languages can you speak fluently? 
+2059,cpw_CouplesSelfExpansion,LanguageSpokenAtHome,Background,What language do you speak at home?
+2060,cpw_CouplesSelfExpansion,ReligiousDenomination,Background,What is your religious denomination? 
+2061,cpw_CouplesSelfExpansion,Occupation,Background,What is your current occupation?
+2062,cpw_CouplesSelfExpansion,LengthOfRelationship,Background,"How long have you been in an exclusive relationship with your romantic partner (months, years)?"
+2063,cpw_CouplesSelfExpansion,Gender,Background,What is your gender?
+2064,cpw_CouplesSelfExpansion,Education_Self,Background,What is the highest level of education you have completed?
+2065,cpw_CouplesSelfExpansion,Education_Mother,Background,What is the highest level of education completed by your mother?
+2066,cpw_CouplesSelfExpansion,Education_Father,Background,What is the highest level of education completed by your father?
+2067,cpw_CouplesSelfExpansion,Income,Background,What is your approximate household annual income(before taxes)?
+2068,cpw_CouplesSelfExpansion,Ethnicity_All,Background,Your ethnic background: (Check all that apply)
+2069,cpw_CouplesSelfExpansion,Ethnicity_Most,Background,Which ethnicity do you identify with the most? (Check only one) 
+2070,cpw_CouplesSelfExpansion,EthnicIdentitiy_Strength,Background,How strongly do you identify with your ethnicity?
+2071,cpw_CouplesSelfExpansion,Spiritual,Background,How spiritual are you?
+2072,cpw_CouplesSelfExpansion,Religious,Background,How religious are you?
+2073,cpw_CouplesSelfExpansion,Debrief,Background,QuestionID1
+2074,cpw_CouplesSelfExpansion,EndDate,Background,EndDate
+2075,cpw_CouplesSelfExpansion,EndTime,Background,EndTime
+2076,cpw_CouplesSelfExpansion,CoupleID,Diary,Couple ID
+2077,cpw_CouplesSelfExpansion,UserID,Diary,Participant ID
+2078,cpw_CouplesSelfExpansion,PartnerID,Diary,Partner ID
+2079,cpw_CouplesSelfExpansion,DiaryDay,Diary,Which day of the diary is this record? (1-14)
+2080,cpw_CouplesSelfExpansion,RecordID,Diary,RecordID
+2081,cpw_CouplesSelfExpansion,StartDate,Diary,StartDate
+2082,cpw_CouplesSelfExpansion,StartTime,Diary,StartTime
+2083,cpw_CouplesSelfExpansion,Baseline_Happy,Diary,"Happy, pleased, joyful"
+2084,cpw_CouplesSelfExpansion,Baseline_Interested,Diary,"Interested, attentive"
+2085,cpw_CouplesSelfExpansion,Baseline_Amused,Diary,"Amused, having fun"
+2086,cpw_CouplesSelfExpansion,Baseline_Anxious,Diary,"Anxious, nervous"
+2087,cpw_CouplesSelfExpansion,Baseline_Sad,Diary,"Sad, depressed, down"
+2088,cpw_CouplesSelfExpansion,Baseline_Angry,Diary,"Angry, irritated, frustrated"
+2089,cpw_CouplesSelfExpansion,SWL,Diary,I was satisfied with my life today.
+2090,cpw_CouplesSelfExpansion,GoalProgress_Satisfactin,Diary,Today I felt satisfied with my progress toward my goals.
+2091,cpw_CouplesSelfExpansion,Rel_Satisfaction,Diary,I felt satisfied with my relationship with my partner. 
+2092,cpw_CouplesSelfExpansion,Rel_MadeMeHappy,Diary,Our relationship made me very happy. 
+2093,cpw_CouplesSelfExpansion,Rel_DesireToContinue,Diary,I felt a strong desire to continue my relationship for a long time. 
+2094,cpw_CouplesSelfExpansion,Rel_Commitment,Diary,I felt committed to maintaining my relationship with my partner.
+2095,cpw_CouplesSelfExpansion,Rel_SexualDesire,Diary,I felt a great deal of sexual desire for my partner today.
+2096,cpw_CouplesSelfExpansion,Rel_Passion,Diary,I felt a lot of passion in my relationship today.
+2097,cpw_CouplesSelfExpansion,Rel_DisclosedToPartner,Diary,"Today, I disclosed my thoughts and emotions to my partner."
+2098,cpw_CouplesSelfExpansion,Rel_PartnerDisclosed,Diary,"Today, my partner disclosed his/her thoughts and emotions."
+2099,cpw_CouplesSelfExpansion,Rel_Closeness,Diary,I felt a lot of closeness and intimacy toward my partner today.
+2100,cpw_CouplesSelfExpansion,Rel_AffectionateTowardPartner,Diary,"Today, I was affectionate with my partner."
+2101,cpw_CouplesSelfExpansion,Rel_PartnerAffectionateTowardMe,Diary,"Today, my partner was affectionate toward me."
+2102,cpw_CouplesSelfExpansion,TimeSpentTogether,Diary,"Approximately, how much time did you spend with your partner today? (hours, minutes)"
+2103,cpw_CouplesSelfExpansion,PartnerSelfExpand_Expand1,Diary,How much did being with your partner result in you having new experiences?
+2104,cpw_CouplesSelfExpansion,PartnerSelfExpand_Expand2,Diary,How much did you feel a greater awareness of things because of your partner?
+2105,cpw_CouplesSelfExpansion,PartnerSelfExpand_Expand3,Diary,How much did being with your partner expand your sense of the kind of person you are?
+2106,cpw_CouplesSelfExpansion,PartnerSelfExpand_Expand4,Diary,How much did your partner provide you with a source of excitement?
+2107,cpw_CouplesSelfExpansion,PartnerSelfExpand_Expand5,Diary,How much did you feel you gained a larger perspective of things because of your partner?
+2108,cpw_CouplesSelfExpansion,PartnerSelfExpand_Expand6,Diary,How much did your partner increase your knowledge?
+2109,cpw_CouplesSelfExpansion,PartnerSelfExpand_YesNo,Diary,"Thinking about your responses to the questions above, can you think of something specific that you d"
+2110,cpw_CouplesSelfExpansion,PartnerSelfExpand_Description,Diary,Please provide a brief description of this activity below:
+2111,cpw_CouplesSelfExpansion,PartnerSelfExpand_IOS,Diary,"Above are seven pairs of circles. The left circle represents you, the right circle represents your p"
+2112,cpw_CouplesSelfExpansion,PartnerSelfExpand_PartnerExpansion,Diary,"To what extent do you think your partner felt a greater sense of excitement, a greater awareness of "
+2113,cpw_CouplesSelfExpansion,PartnerSelfExpand_Motive1,Diary,To feel good about myself
+2114,cpw_CouplesSelfExpansion,PartnerSelfExpand_Motive2,Diary,To prevent my partner from feeling upset
+2115,cpw_CouplesSelfExpansion,PartnerSelfExpand_Motive3,Diary,To avoid conflict in our relationship
+2116,cpw_CouplesSelfExpansion,PartnerSelfExpand_Motive4,Diary,To avoid feeling guilty
+2117,cpw_CouplesSelfExpansion,PartnerSelfExpand_Motive5,Diary,To make my partner happy
+2118,cpw_CouplesSelfExpansion,PartnerSelfExpand_Motive6,Diary,To create more satisfaction in our relationship
+2119,cpw_CouplesSelfExpansion,PartnerSelfExpand_Motive7,Diary,To reciprocate something my partner has done for me 
+2120,cpw_CouplesSelfExpansion,PartnerSelfExpand_Motive8,Diary,To get my partner to return the favor later 
+2121,cpw_CouplesSelfExpansion,PartnerSelfExpand_Happy,Diary,"Happy, pleased, joyful"
+2122,cpw_CouplesSelfExpansion,PartnerSelfExpand_Interested,Diary,"Interested, attentive"
+2123,cpw_CouplesSelfExpansion,PartnerSelfExpand_Amused,Diary,"Amused, having fun"
+2124,cpw_CouplesSelfExpansion,PartnerSelfExpand_Anxious,Diary,"Anxious, nervous"
+2125,cpw_CouplesSelfExpansion,PartnerSelfExpand_Sad,Diary,"Sad, depressed, down"
+2126,cpw_CouplesSelfExpansion,PartnerSelfExpand_Angry,Diary,"Angry, irritated, frustrated"
+2127,cpw_CouplesSelfExpansion,AloneSelfExpand_Expand1,Diary,How much did you feel a greater awareness of things?
+2128,cpw_CouplesSelfExpansion,AloneSelfExpand_Expand2,Diary,How much did you expand your sense of the kind of person you are?
+2129,cpw_CouplesSelfExpansion,AloneSelfExpand_Expand3,Diary,How much did your experiences provide a source of excitement?
+2130,cpw_CouplesSelfExpansion,AloneSelfExpand_Expand4,Diary,How much did you feel that you have a larger perspective on things?
+2131,cpw_CouplesSelfExpansion,AloneSelfExpand_Expand5,Diary,How much did you increase your knowledge? 
+2132,cpw_CouplesSelfExpansion,AloneSelfExpand_YesNo,Diary,Can you think of something specific that you did WITHOUT YOUR ROMANTIC PARTNER TODAY that resulted i
+2133,cpw_CouplesSelfExpansion,AloneSelfExpand_Description,Diary,Please provide a brief description of this activity below:
+2134,cpw_CouplesSelfExpansion,AloneSelfExpand_Motive1,Diary,To feel good about myself
+2135,cpw_CouplesSelfExpansion,AloneSelfExpand_Motive2,Diary,To avoid feeling guilty
+2136,cpw_CouplesSelfExpansion,AloneSelfExpand_Motive3,Diary,To create more satisfaction in my life
+2137,cpw_CouplesSelfExpansion,AloneSelfExpand_Motive4,Diary,To make myself happy
+2138,cpw_CouplesSelfExpansion,AloneSelfExpand_Motive5,Diary,To have a new experience
+2139,cpw_CouplesSelfExpansion,AloneSelfExpand_Motive6,Diary,To avoid missing out on something fun/interesting
+2140,cpw_CouplesSelfExpansion,AloneSelfExpand_Motive7,Diary,To cope with negative feelings
+2141,cpw_CouplesSelfExpansion,AloneSelfExpand_Motive8,Diary,To prevent feeling bored
+2142,cpw_CouplesSelfExpansion,AloneSelfExpand_Happy,Diary,"Happy, pleased, joyful"
+2143,cpw_CouplesSelfExpansion,AloneSelfExpand_Interested,Diary,"Interested, attentive"
+2144,cpw_CouplesSelfExpansion,AloneSelfExpand_Amused,Diary,"Amused, having fun"
+2145,cpw_CouplesSelfExpansion,AloneSelfExpand_Anxious,Diary,"Anxious, nervous"
+2146,cpw_CouplesSelfExpansion,AloneSelfExpand_Sad,Diary,"Sad, depressed, down"
+2147,cpw_CouplesSelfExpansion,AloneSelfExpand_Angry,Diary,"Angry, irritated, frustrated"
+2148,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Description,Diary,Please describe an activity that you did WITH YOUR PARNTER today that made you feel happy or uplifte
+2149,cpw_CouplesSelfExpansion,PartnerPositiveEvent_IOS,Diary,"Above are seven pairs of circles. The left circle represents you, the right circle represents your p"
+2150,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Motive1,Diary,To feel good about myself
+2151,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Motive2,Diary,To prevent my partner from feeling upset
+2152,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Motive3,Diary,To avoid conflict in our relationship
+2153,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Motive4,Diary,To avoid feeling guilty
+2154,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Motive5,Diary,To make my partner happy
+2155,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Motive6,Diary,To create more satisfaction in our relationship
+2156,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Motive7,Diary,To reciprocate something my partner has done for me 
+2157,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Motive8,Diary,To get my partner to return the favor later 
+2158,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Happy,Diary,"Happy, pleased, joyful"
+2159,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Interested,Diary,"Interested, attentive"
+2160,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Amused,Diary,"Amused, having fun"
+2161,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Anxious,Diary,"Anxious, nervous"
+2162,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Sad,Diary,"Sad, depressed, down"
+2163,cpw_CouplesSelfExpansion,PartnerPositiveEvent_Angry,Diary,"Angry, irritated, frustrated"
+2164,cpw_CouplesSelfExpansion,AlonePositiveEvent_Description,Diary,Please describe an activity that you did WITHOUT YOUR ROMANTIC PARTNER today that made you feel happ
+2165,cpw_CouplesSelfExpansion,AlonePositiveEvent_Motive1,Diary,To feel good about myself
+2166,cpw_CouplesSelfExpansion,AlonePositiveEvent_Motive2,Diary,To avoid feeling guilty
+2167,cpw_CouplesSelfExpansion,AlonePositiveEvent_Motive3,Diary,To create more satisfaction in my life
+2168,cpw_CouplesSelfExpansion,AlonePositiveEvent_Motive4,Diary,To make myself happy
+2169,cpw_CouplesSelfExpansion,AlonePositiveEvent_Motive5,Diary,To have a new experience
+2170,cpw_CouplesSelfExpansion,AlonePositiveEvent_Motive6,Diary,To avoid missing out on something fun/interesting
+2171,cpw_CouplesSelfExpansion,AlonePositiveEvent_Motive7,Diary,To cope with negative feelings
+2172,cpw_CouplesSelfExpansion,AlonePositiveEvent_Motive8,Diary,To prevent feeling bored
+2173,cpw_CouplesSelfExpansion,AlonePositiveEvent_Happy,Diary,"Happy, pleased, joyful"
+2174,cpw_CouplesSelfExpansion,AlonePositiveEvent_Interested,Diary,"Interested, attentive"
+2175,cpw_CouplesSelfExpansion,AlonePositiveEvent_Amused,Diary,"Amused, having fun"
+2176,cpw_CouplesSelfExpansion,AlonePositiveEvent_Anxious,Diary,"Anxious, nervous"
+2177,cpw_CouplesSelfExpansion,AlonePositiveEvent_Sad,Diary,"Sad, depressed, down"
+2178,cpw_CouplesSelfExpansion,AlonePositiveEvent_Angry,Diary,"Angry, irritated, frustrated"
+2179,cpw_CouplesSelfExpansion,Sex_YesNo,Diary,Did you and your partner have sex today?
+2180,cpw_CouplesSelfExpansion,Sex_Initiator,Diary,"If yes, who initiated or otherwise indicated the strongest interest in having sex?"
+2181,cpw_CouplesSelfExpansion,Sex_Passion,Diary,"During sex, I felt passionately attracted to my partner. "
+2182,cpw_CouplesSelfExpansion,Sex_GreatFun,Diary,"Overall, I had great fun during sex."
+2183,cpw_CouplesSelfExpansion,Sex_Enjoyed,Diary,I enjoyed the sexual experience. 
+2184,cpw_CouplesSelfExpansion,Sex_Motive1,Diary,To pursue my own sexual pleasure.
+2185,cpw_CouplesSelfExpansion,Sex_Motive2,Diary,To feel good or better about myself.
+2186,cpw_CouplesSelfExpansion,Sex_Motive3,Diary,To cope with negative feelings.
+2187,cpw_CouplesSelfExpansion,Sex_Motive4,Diary,To avoid feeling guilty.
+2188,cpw_CouplesSelfExpansion,Sex_Motive5,Diary,To express love for my partner. 
+2189,cpw_CouplesSelfExpansion,Sex_Motive6,Diary,To feel emotionally closer to my partner. 
+2190,cpw_CouplesSelfExpansion,Sex_Motive7,Diary,To avoid conflict in my relationship. 
+2191,cpw_CouplesSelfExpansion,Sex_Motive8,Diary,To prevent my partner from becoming upset. 
+2192,cpw_CouplesSelfExpansion,Kind_MeForPartner1,Diary,I finished a chore for my partner when she/he didn’t have time to do it.
+2193,cpw_CouplesSelfExpansion,Kind_MeForPartner2,Diary,I gave my partner a surprise.
+2194,cpw_CouplesSelfExpansion,Kind_MeForPartner3,Diary,I was actively supportive of a good thing that happened to my partner.
+2195,cpw_CouplesSelfExpansion,Kind_MeForPartner4,Diary,I gave my partner emotional support when she/he was hurt or in need.
+2196,cpw_CouplesSelfExpansion,Kind_PartnerForMe1,Diary,My partner finished a chore for me when I didn’t have time to do it.
+2197,cpw_CouplesSelfExpansion,Kind_PartnerForMe2,Diary,My partner gave me a surprise.
+2198,cpw_CouplesSelfExpansion,Kind_PartnerForMe3,Diary,My partner was actively supportive of a good thing that happened to me.
+2199,cpw_CouplesSelfExpansion,Kind_PartnerForMe4,Diary,My partner gave me emotional support when I was hurt or in need.
+2200,cpw_CouplesSelfExpansion,EndDate,Diary,EndDate
+2201,cpw_CouplesSelfExpansion,EndTime,Diary,EndTime
+2202,cpw_CouplesSelfExpansion,CoupleID,FollowUp1,Couple ID
+2203,cpw_CouplesSelfExpansion,UserID,FollowUp1,Participant ID
+2204,cpw_CouplesSelfExpansion,PartnerID,FollowUp1,Partner ID
+2205,cpw_CouplesSelfExpansion,RecordID,FollowUp1,RecordID
+2206,cpw_CouplesSelfExpansion,StartDate,FollowUp1,StartDate
+2207,cpw_CouplesSelfExpansion,StartTime,FollowUp1,StartTime
+2208,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality1,FollowUp1,How satisfied are you with your relationship?
+2209,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality2,FollowUp1,How content are you with your relationship?
+2210,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality3,FollowUp1,How happy are you with your relationship?
+2211,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality4,FollowUp1,How committed are you to your relationship?
+2212,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality5,FollowUp1,How dedicated are you to your relationship?
+2213,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality6,FollowUp1,How devoted are you to your relationship?
+2214,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality7,FollowUp1,How intimate is your relationship?
+2215,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality8,FollowUp1,How close is your relationship?
+2216,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality9,FollowUp1,How connected are you to your partner?
+2217,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality10,FollowUp1,How much do you trust your partner?
+2218,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality11,FollowUp1,How much can you count on your partner?
+2219,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality12,FollowUp1,How dependable is your partner?
+2220,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality13,FollowUp1,How passionate is your relationship?
+2221,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality14,FollowUp1,How lustful is your relationship?
+2222,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality15,FollowUp1,How sexually intense is your relationship?
+2223,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality16,FollowUp1,How much do you love your partner?
+2224,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality17,FollowUp1,How much do you adore your partner?
+2225,cpw_CouplesSelfExpansion,FL1_PerceivedRelQuality18,FollowUp1,How much do you cherish your partner?
+2226,cpw_CouplesSelfExpansion,FL1_IOS,FollowUp1,"Above are seven pairs of circles. The left circle represents you, the right circle represents your p"
+2227,cpw_CouplesSelfExpansion,FL1_RelStatus,FollowUp1,Please select the option that best describes your current relationship status with your partner:
+2228,cpw_CouplesSelfExpansion,FL1_NumberOfChildren,FollowUp1,How many children do you have?
+2229,cpw_CouplesSelfExpansion,FL1_CommunalStrength1,FollowUp1,How far would you be willing to go to visit your romantic partner?
+2230,cpw_CouplesSelfExpansion,FL1_CommunalStrength2,FollowUp1,How happy do you feel when doing something that helps your romantic partner?
+2231,cpw_CouplesSelfExpansion,FL1_CommunalStrength3,FollowUp1,How large a benefit would you be likely to give to your romantic partner?
+2232,cpw_CouplesSelfExpansion,FL1_CommunalStrength4,FollowUp1,How large a cost would you incur to meet a need of your romantic partner?
+2233,cpw_CouplesSelfExpansion,FL1_CommunalStrength5,FollowUp1,How readily can you put the needs of your romantic partner out of your thoughts?
+2234,cpw_CouplesSelfExpansion,FL1_CommunalStrength6,FollowUp1,How high a priority for you is meeting the needs of your romantic partner?
+2235,cpw_CouplesSelfExpansion,FL1_CommunalStrength7,FollowUp1,How reluctant would you be to sacrifice for your romantic partner?
+2236,cpw_CouplesSelfExpansion,FL1_CommunalStrength8,FollowUp1,How much would you be willing to give up to benefit your romantic partner?
+2237,cpw_CouplesSelfExpansion,FL1_CommunalStrength9,FollowUp1,How far would you go out of your way to do something for your romantic partner?
+2238,cpw_CouplesSelfExpansion,FL1_CommunalStrength10,FollowUp1,How easily could you accept not helping your romantic partner?
+2239,cpw_CouplesSelfExpansion,FL1_Appreciation1,FollowUp1,I tell my partner often that s/he is the best.
+2240,cpw_CouplesSelfExpansion,FL1_Appreciation2,FollowUp1,I often tell my partner how much I appreciate her/him.
+2241,cpw_CouplesSelfExpansion,FL1_Appreciation3,FollowUp1,I feel very lucky to have my partner in my life.
+2242,cpw_CouplesSelfExpansion,FL1_Appreciation4,FollowUp1,At times I take my partner for granted.
+2243,cpw_CouplesSelfExpansion,FL1_Appreciation5,FollowUp1,I appreciate my partner.
+2244,cpw_CouplesSelfExpansion,FL1_Appreciation6,FollowUp1,Sometimes I don’t really acknowledge or treat my partner like s/he is someone special. 
+2245,cpw_CouplesSelfExpansion,FL1_Appreciation7,FollowUp1,I remind myself daily how lucky I am to have my partner.
+2246,cpw_CouplesSelfExpansion,FL1_Appreciation8,FollowUp1,I make sure my partner feels appreciated.
+2247,cpw_CouplesSelfExpansion,FL1_Appreciation9,FollowUp1,My partner sometimes says that I fail to notice the nice things that s/he does for me. 
+2248,cpw_CouplesSelfExpansion,FL1_Appreciation10,FollowUp1,"I acknowledge the things that my partner does for me, even the really small things."
+2249,cpw_CouplesSelfExpansion,FL1_Appreciation11,FollowUp1,I am sometimes struck with a sense of awe and wonder when I think about my partner being in my life.
+2250,cpw_CouplesSelfExpansion,FL1_Appreciation12,FollowUp1,My partner makes sure I feel appreciated.
+2251,cpw_CouplesSelfExpansion,FL1_Appreciation13,FollowUp1,"When I am with my partner, sometimes s/he will look at me excitedly and tell me how much s/he apprec"
+2252,cpw_CouplesSelfExpansion,FL1_Appreciation14,FollowUp1,My partner often tells me the things that s/he really likes about me.
+2253,cpw_CouplesSelfExpansion,FL1_Appreciation15,FollowUp1,At times my partner takes me for granted. 
+2254,cpw_CouplesSelfExpansion,FL1_Appreciation16,FollowUp1,"My partner often expresses her/his thanks when I do something nice, even if it’s really small."
+2255,cpw_CouplesSelfExpansion,FL1_Appreciation17,FollowUp1,My partner doesn’t notice when I do nice things for her/him. 
+2256,cpw_CouplesSelfExpansion,FL1_Appreciation18,FollowUp1,My partner makes me feel special.
+2257,cpw_CouplesSelfExpansion,FL1_Power1,FollowUp1,"In my relationship, my wishes don't carry much weight."
+2258,cpw_CouplesSelfExpansion,FL1_Power2,FollowUp1,"In my relationship, even if I voice them, my views have little sway."
+2259,cpw_CouplesSelfExpansion,FL1_Power3,FollowUp1,"In my relationship, my ideas and opinions are often ignored."
+2260,cpw_CouplesSelfExpansion,FL1_Power4,FollowUp1,"In my relationship, I can get my partner to listen to what I say."
+2261,cpw_CouplesSelfExpansion,FL1_Power5,FollowUp1,"In my relationship, I can get my partner to do what I want."
+2262,cpw_CouplesSelfExpansion,FL1_Power6,FollowUp1,"In my relationship, even when I try, I am not able to get my way."
+2263,cpw_CouplesSelfExpansion,FL1_Power7,FollowUp1,"In my relationship, I think I have a great deal of power."
+2264,cpw_CouplesSelfExpansion,FL1_Power8,FollowUp1,"In my relationship, if I want to, I get to make the decisions."
+2265,cpw_CouplesSelfExpansion,FL1_SexualDesire1,FollowUp1,Just thinking about having sex with my partner excites me. 
+2266,cpw_CouplesSelfExpansion,FL1_SexualDesire2,FollowUp1,I try to avoid having sex with my partner. 
+2267,cpw_CouplesSelfExpansion,FL1_SexualDesire3,FollowUp1,I daydream about sex. 
+2268,cpw_CouplesSelfExpansion,FL1_SexualDesire4,FollowUp1,It is difficult for me to get in a sexual mood. 
+2269,cpw_CouplesSelfExpansion,FL1_SexualDesire5,FollowUp1,I desire sex more than my partner does
+2270,cpw_CouplesSelfExpansion,FL1_SexualDesire6,FollowUp1,It is hard for me to fantasize about sexual things.
+2271,cpw_CouplesSelfExpansion,FL1_SexualDesire7,FollowUp1,I look forward to having sex with my partner. 
+2272,cpw_CouplesSelfExpansion,FL1_SexualDesire8,FollowUp1,I have a huge appetite for sex. 
+2273,cpw_CouplesSelfExpansion,FL1_SexualDesire9,FollowUp1,I enjoy using sexual fantasy during sex with my partner. 
+2274,cpw_CouplesSelfExpansion,FL1_SexualDesire10,FollowUp1,It is easy for me to get in the mood for sex. 
+2275,cpw_CouplesSelfExpansion,FL1_SexualDesire11,FollowUp1,My desire for sex should be stronger.
+2276,cpw_CouplesSelfExpansion,FL1_SexualDesire12,FollowUp1,I enjoy thinking about sex. 
+2277,cpw_CouplesSelfExpansion,FL1_SexualDesire13,FollowUp1,I desire sex.
+2278,cpw_CouplesSelfExpansion,FL1_SexualDesire14,FollowUp1,It is easy for me to go weeks without having sex with my partner.
+2279,cpw_CouplesSelfExpansion,FL1_SexualDesire15,FollowUp1,I feel I want sex less than most people.
+2280,cpw_CouplesSelfExpansion,FL1_SexualDesire16,FollowUp1,It is easy for me to create sexual fantasies in my mind.
+2281,cpw_CouplesSelfExpansion,FL1_SexualDesire17,FollowUp1,I have a strong sex drive.
+2282,cpw_CouplesSelfExpansion,FL1_SexualDesire18,FollowUp1,I enjoy thinking about having sex with my partner.
+2283,cpw_CouplesSelfExpansion,FL1_SexualDesire19,FollowUp1,My desire for sex with my partner is strong.
+2284,cpw_CouplesSelfExpansion,FL1_SexualDesire20,FollowUp1,I feel that sex is not an important aspect of the relationship I share with my partner.
+2285,cpw_CouplesSelfExpansion,FL1_SexualDesire21,FollowUp1,I think my energy level for sex with my partner is too low.
+2286,cpw_CouplesSelfExpansion,FL1_SexualDesire22,FollowUp1,It is hard for me to get in the mood for sex.
+2287,cpw_CouplesSelfExpansion,FL1_SexualDesire23,FollowUp1,I lack the desire necessary to pursue sex with my partner.
+2288,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction1,FollowUp1,I feel that my partner enjoys our sex life.
+2289,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction2,FollowUp1,Our sex life is very exciting.
+2290,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction3,FollowUp1,Sex is fun for my partner and me.
+2291,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction4,FollowUp1,Sex with my partner has become a chore for me. 
+2292,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction5,FollowUp1,I feel that our sex life is dirty and disgusting. 
+2293,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction6,FollowUp1,Our sex life is monotonous. 
+2294,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction7,FollowUp1,When we have sex it is too rushed and hurriedly completed. 
+2295,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction8,FollowUp1,I feel that my sex life is lacking in quality. 
+2296,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction9,FollowUp1,My partner is sexually very exciting.
+2297,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction10,FollowUp1,I enjoy the sex techniques that my partner likes or uses.
+2298,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction11,FollowUp1,I feel that my partner wants too much sex from me. 
+2299,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction12,FollowUp1,I think our sex is wonderful.
+2300,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction13,FollowUp1,My partner dwells on sex too much. 
+2301,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction14,FollowUp1,I try to avoid sexual contact with my partner. 
+2302,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction15,FollowUp1,My partner is too rough or brutal when we have sex. 
+2303,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction16,FollowUp1,My partner is a wonderful sex mate.
+2304,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction17,FollowUp1,I feel that our sex life is a normal function of our relationship.
+2305,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction18,FollowUp1,My partner does not want sex when I do. 
+2306,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction19,FollowUp1,I feel that our sex life really adds a lot to our relationship.
+2307,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction20,FollowUp1,My partner seems to avoid sexual contact with me. 
+2308,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction21,FollowUp1,It is easy for me to get sexually excited by my partner.
+2309,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction22,FollowUp1,I feel that my partner is sexually pleased with me
+2310,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction23,FollowUp1,My partner is very sensitive to my sexual needs and desires.
+2311,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction24,FollowUp1,My partner does not satisfy me sexually. 
+2312,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction25,FollowUp1,I feel that my sex life is boring.
+2313,cpw_CouplesSelfExpansion,FL1_SexualCommunalStrength1,FollowUp1,How far would you be willing to go to meet your partner's sexual needs?
+2314,cpw_CouplesSelfExpansion,FL1_SexualCommunalStrength2,FollowUp1,How readily can you put the sexual needs of your partner out of your thoughts?
+2315,cpw_CouplesSelfExpansion,FL1_SexualCommunalStrength3,FollowUp1,How high a priority for you is meeting the sexual needs of your partner?
+2316,cpw_CouplesSelfExpansion,FL1_SexualCommunalStrength4,FollowUp1,How easily could you accept not meeting your partner's sexual needs?
+2317,cpw_CouplesSelfExpansion,FL1_SexualCommunalStrength5,FollowUp1,How likely are you to sacrifice your own needs to meet the sexual needs of your partner?
+2318,cpw_CouplesSelfExpansion,FL1_SexualCommunalStrength6,FollowUp1,How happy do you feel when satisfying your partner's sexual needs?
+2319,cpw_CouplesSelfExpansion,FL1_GiftCard,FollowUp1,From where would you like to receive your gift card?
+2320,cpw_CouplesSelfExpansion,FL1_End,FollowUp1,QuestionID1
+2321,cpw_CouplesSelfExpansion,EndDate,FollowUp1,EndDate
+2322,cpw_CouplesSelfExpansion,EndTime,FollowUp1,EndTime
+2323,cpw_CouplesSelfExpansion,CoupleID,FollowUp2,CoupleID
+2324,cpw_CouplesSelfExpansion,UserID,FollowUp2,UserID
+2325,cpw_CouplesSelfExpansion,PartnerID,FollowUp2,Partner ID
+2326,cpw_CouplesSelfExpansion,RecordID,FollowUp2,RecordID
+2327,cpw_CouplesSelfExpansion,StartDate,FollowUp2,StartDate
+2328,cpw_CouplesSelfExpansion,StartTime,FollowUp2,StartTime
+2329,cpw_CouplesSelfExpansion,FL2_StillTogether,FollowUp2,Are you still dating the same partner you were dating when you participated in the Couples Study thr
+2330,cpw_CouplesSelfExpansion,FL2_WhenWasBreakup,FollowUp2,When did you break-up with your partner (month/day/year)?
+2331,cpw_CouplesSelfExpansion,FL2_WhoInitiatedBreakUp,FollowUp2,Who initiated the break-up?
+2332,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality1,FollowUp2,How satisfied are you with your relationship?
+2333,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality2,FollowUp2,How content are you with your relationship?
+2334,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality3,FollowUp2,How happy are you with your relationship?
+2335,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality4,FollowUp2,How committed are you to your relationship?
+2336,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality5,FollowUp2,How dedicated are you to your relationship?
+2337,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality6,FollowUp2,How devoted are you to your relationship?
+2338,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality7,FollowUp2,How intimate is your relationship?
+2339,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality8,FollowUp2,How close is your relationship?
+2340,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality9,FollowUp2,How connected are you to your partner?
+2341,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality10,FollowUp2,How much do you trust your partner?
+2342,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality11,FollowUp2,How much can you count on your partner?
+2343,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality12,FollowUp2,How dependable is your partner?
+2344,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality13,FollowUp2,How passionate is your relationship?
+2345,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality14,FollowUp2,How lustful is your relationship?
+2346,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality15,FollowUp2,How sexually intense is your relationship?
+2347,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality16,FollowUp2,How much do you love your partner?
+2348,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality17,FollowUp2,How much do you adore your partner?
+2349,cpw_CouplesSelfExpansion,FL2_PerceivedRelQuality18,FollowUp2,How much do you cherish your partner?
+2350,cpw_CouplesSelfExpansion,FL2_IOS,FollowUp2,"Above are seven pairs of circles. The left circle represents you, the right circle represents your p"
+2351,cpw_CouplesSelfExpansion,FL2_ExcitingActivities1,FollowUp2,How exciting are the things you have been doing together with your partner in the past 3 months?
+2352,cpw_CouplesSelfExpansion,FL2_ExcitingActivities2,FollowUp2,"Considering the last 3 months, please rate the degree to which you and your partner have participate"
+2353,cpw_CouplesSelfExpansion,FL2_CommunalStrength1,FollowUp2,How far would you be willing to go to visit your romantic partner?
+2354,cpw_CouplesSelfExpansion,FL2_CommunalStrength2,FollowUp2,How happy do you feel when doing something that helps your romantic partner?
+2355,cpw_CouplesSelfExpansion,FL2_CommunalStrength3,FollowUp2,How large a benefit would you be likely to give to your romantic partner?
+2356,cpw_CouplesSelfExpansion,FL2_CommunalStrength4,FollowUp2,How large a cost would you incur to meet a need of your romantic partner?
+2357,cpw_CouplesSelfExpansion,FL2_CommunalStrength5,FollowUp2,How readily can you put the needs of your romantic partner out of your thoughts?
+2358,cpw_CouplesSelfExpansion,FL2_CommunalStrength6,FollowUp2,How high a priority for you is meeting the needs of your romantic partner?
+2359,cpw_CouplesSelfExpansion,FL2_CommunalStrength7,FollowUp2,How reluctant would you be to sacrifice for your romantic partner?
+2360,cpw_CouplesSelfExpansion,FL2_CommunalStrength8,FollowUp2,How much would you be willing to give up to benefit your romantic partner?
+2361,cpw_CouplesSelfExpansion,FL2_CommunalStrength9,FollowUp2,How far would you go out of your way to do something for your romantic partner?
+2362,cpw_CouplesSelfExpansion,FL2_CommunalStrength10,FollowUp2,How easily could you accept not helping your romantic partner?
+2363,cpw_CouplesSelfExpansion,FL2_Appreciation1,FollowUp2,I tell my partner often that s/he is the best.
+2364,cpw_CouplesSelfExpansion,FL2_Appreciation2,FollowUp2,I often tell my partner how much I appreciate her/him.
+2365,cpw_CouplesSelfExpansion,FL2_Appreciation3,FollowUp2,I feel very lucky to have my partner in my life.
+2366,cpw_CouplesSelfExpansion,FL2_Appreciation4,FollowUp2,At times I take my partner for granted.
+2367,cpw_CouplesSelfExpansion,FL2_Appreciation5,FollowUp2,I appreciate my partner.
+2368,cpw_CouplesSelfExpansion,FL2_Appreciation6,FollowUp2,Sometimes I don’t really acknowledge or treat my partner like s/he is someone special. 
+2369,cpw_CouplesSelfExpansion,FL2_Appreciation7,FollowUp2,I remind myself daily how lucky I am to have my partner.
+2370,cpw_CouplesSelfExpansion,FL2_Appreciation8,FollowUp2,I make sure my partner feels appreciated.
+2371,cpw_CouplesSelfExpansion,FL2_Appreciation9,FollowUp2,My partner sometimes says that I fail to notice the nice things that s/he does for me. 
+2372,cpw_CouplesSelfExpansion,FL2_Appreciation10,FollowUp2,"I acknowledge the things that my partner does for me, even the really small things."
+2373,cpw_CouplesSelfExpansion,FL2_Appreciation11,FollowUp2,I am sometimes struck with a sense of awe and wonder when I think about my partner being in my life.
+2374,cpw_CouplesSelfExpansion,FL2_Appreciation12,FollowUp2,My partner makes sure I feel appreciated.
+2375,cpw_CouplesSelfExpansion,FL2_Appreciation13,FollowUp2,"When I am with my partner, sometimes s/he will look at me excitedly and tell me how much s/he apprec"
+2376,cpw_CouplesSelfExpansion,FL2_Appreciation14,FollowUp2,My partner often tells me the things that s/he really likes about me.
+2377,cpw_CouplesSelfExpansion,FL2_Appreciation15,FollowUp2,At times my partner takes me for granted. 
+2378,cpw_CouplesSelfExpansion,FL2_Appreciation16,FollowUp2,"My partner often expresses her/his thanks when I do something nice, even if it’s really small."
+2379,cpw_CouplesSelfExpansion,FL2_Appreciation17,FollowUp2,My partner doesn’t notice when I do nice things for her/him. 
+2380,cpw_CouplesSelfExpansion,FL2_Appreciation18,FollowUp2,My partner makes me feel special.
+2381,cpw_CouplesSelfExpansion,FL2_SexualDesire1,FollowUp2,Just thinking about having sex with my partner excites me. 
+2382,cpw_CouplesSelfExpansion,FL2_SexualDesire2,FollowUp2,I try to avoid having sex with my partner. 
+2383,cpw_CouplesSelfExpansion,FL2_SexualDesire3,FollowUp2,I daydream about sex. 
+2384,cpw_CouplesSelfExpansion,FL2_SexualDesire4,FollowUp2,It is difficult for me to get in a sexual mood. 
+2385,cpw_CouplesSelfExpansion,FL2_SexualDesire5,FollowUp2,I desire sex more than my partner does
+2386,cpw_CouplesSelfExpansion,FL2_SexualDesire6,FollowUp2,It is hard for me to fantasize about sexual things.
+2387,cpw_CouplesSelfExpansion,FL2_SexualDesire7,FollowUp2,I look forward to having sex with my partner. 
+2388,cpw_CouplesSelfExpansion,FL2_SexualDesire8,FollowUp2,I have a huge appetite for sex. 
+2389,cpw_CouplesSelfExpansion,FL2_SexualDesire9,FollowUp2,I enjoy using sexual fantasy during sex with my partner. 
+2390,cpw_CouplesSelfExpansion,FL2_SexualDesire10,FollowUp2,It is easy for me to get in the mood for sex. 
+2391,cpw_CouplesSelfExpansion,FL2_SexualDesire11,FollowUp2,My desire for sex should be stronger.
+2392,cpw_CouplesSelfExpansion,FL2_SexualDesire12,FollowUp2,I enjoy thinking about sex. 
+2393,cpw_CouplesSelfExpansion,FL2_SexualDesire13,FollowUp2,I desire sex.
+2394,cpw_CouplesSelfExpansion,FL2_SexualDesire14,FollowUp2,It is easy for me to go weeks without having sex with my partner.
+2395,cpw_CouplesSelfExpansion,FL2_SexualDesire15,FollowUp2,I feel I want sex less than most people.
+2396,cpw_CouplesSelfExpansion,FL2_SexualDesire16,FollowUp2,It is easy for me to create sexual fantasies in my mind.
+2397,cpw_CouplesSelfExpansion,FL2_SexualDesire17,FollowUp2,I have a strong sex drive.
+2398,cpw_CouplesSelfExpansion,FL2_SexualDesire18,FollowUp2,I enjoy thinking about having sex with my partner.
+2399,cpw_CouplesSelfExpansion,FL2_SexualDesire19,FollowUp2,My desire for sex with my partner is strong.
+2400,cpw_CouplesSelfExpansion,FL2_SexualDesire20,FollowUp2,I feel that sex is not an important aspect of the relationship I share with my partner.
+2401,cpw_CouplesSelfExpansion,FL2_SexualDesire21,FollowUp2,I think my energy level for sex with my partner is too low.
+2402,cpw_CouplesSelfExpansion,FL2_SexualDesire22,FollowUp2,It is hard for me to get in the mood for sex.
+2403,cpw_CouplesSelfExpansion,FL2_SexualDesire23,FollowUp2,I lack the desire necessary to pursue sex with my partner.
+2404,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction1,FollowUp2,I feel that my partner enjoys our sex life.
+2405,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction2,FollowUp2,Our sex life is very exciting.
+2406,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction3,FollowUp2,Sex is fun for my partner and me.
+2407,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction4,FollowUp2,Sex with my partner has become a chore for me. 
+2408,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction5,FollowUp2,I feel that our sex life is dirty and disgusting. 
+2409,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction6,FollowUp2,Our sex life is monotonous. 
+2410,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction7,FollowUp2,When we have sex it is too rushed and hurriedly completed. 
+2411,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction8,FollowUp2,I feel that my sex life is lacking in quality. 
+2412,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction9,FollowUp2,My partner is sexually very exciting.
+2413,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction10,FollowUp2,I enjoy the sex techniques that my partner likes or uses.
+2414,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction11,FollowUp2,I feel that my partner wants too much sex from me. 
+2415,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction12,FollowUp2,I think our sex is wonderful.
+2416,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction13,FollowUp2,My partner dwells on sex too much. 
+2417,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction14,FollowUp2,I try to avoid sexual contact with my partner. 
+2418,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction15,FollowUp2,My partner is too rough or brutal when we have sex. 
+2419,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction16,FollowUp2,My partner is a wonderful sex mate.
+2420,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction17,FollowUp2,I feel that our sex life is a normal function of our relationship.
+2421,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction18,FollowUp2,My partner does not want sex when I do. 
+2422,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction19,FollowUp2,I feel that our sex life really adds a lot to our relationship.
+2423,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction20,FollowUp2,My partner seems to avoid sexual contact with me. 
+2424,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction21,FollowUp2,It is easy for me to get sexually excited by my partner.
+2425,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction22,FollowUp2,I feel that my partner is sexually pleased with me
+2426,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction23,FollowUp2,My partner is very sensitive to my sexual needs and desires.
+2427,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction24,FollowUp2,My partner does not satisfy me sexually. 
+2428,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction25,FollowUp2,I feel that my sex life is boring.
+2429,cpw_CouplesSelfExpansion,FL2_SexualCommunalStrength1,FollowUp2,How far would you be willing to go to meet your partner's sexual needs?
+2430,cpw_CouplesSelfExpansion,FL2_SexualCommunalStrength2,FollowUp2,How readily can you put the sexual needs of your partner out of your thoughts?
+2431,cpw_CouplesSelfExpansion,FL2_SexualCommunalStrength3,FollowUp2,How high a priority for you is meeting the sexual needs of your partner?
+2432,cpw_CouplesSelfExpansion,FL2_SexualCommunalStrength4,FollowUp2,How easily could you accept not meeting your partner's sexual needs?
+2433,cpw_CouplesSelfExpansion,FL2_SexualCommunalStrength5,FollowUp2,How likely are you to sacrifice your own needs to meet the sexual needs of your partner?
+2434,cpw_CouplesSelfExpansion,FL2_SexualCommunalStrength6,FollowUp2,How happy do you feel when satisfying your partner's sexual needs?
+2435,cpw_CouplesSelfExpansion,FL2_GiftCard,FollowUp2,From where would you like to receive your gift card?
+2436,cpw_CouplesSelfExpansion,EndDate,FollowUp2,EndDate
+2437,cpw_CouplesSelfExpansion,EndTime,FollowUp2,EndTime
+2438,cpw_CouplesSelfExpansion,SelfExpansion,Background,Quality of Marriage Quiz--measures self expansion as a function of partner
+2439,cpw_CouplesSelfExpansion,PerceivedQuality_RelSatisfaction,Background,Perceived Relationship Quality Questionnaire: Relationship Satisfaction subscale
+2440,cpw_CouplesSelfExpansion,PerceivedQuality_Commitment,Background,Perceived Relationship Quality Questionnaire: Commitment subscale
+2441,cpw_CouplesSelfExpansion,PerceivedQuality_Intimacy,Background,Perceived Relationship Quality Questionnaire: Intimacy subscale
+2442,cpw_CouplesSelfExpansion,PerceivedQuality_Trust,Background,Perceived Relationship Quality Questionnaire: Trust subscale
+2443,cpw_CouplesSelfExpansion,PerceivedQuality_Passion,Background,Perceived Relationship Quality Questionnaire: Passion subscale
+2444,cpw_CouplesSelfExpansion,PerceivedQuality_Love,Background,Perceived Relationship Quality Questionnaire: Love subscale
+2445,cpw_CouplesSelfExpansion,PerceivedQuality_Total,Background,Perceived Relationship Quality Questionnaire: Average across all subscales
+2446,cpw_CouplesSelfExpansion,CommunalStrength,Background,Communal Strength--Degree of motivation to care for a particular partner's needs uncontingently
+2447,cpw_CouplesSelfExpansion,Appreciative,Background,"Appreciation Scale: Appreciative subscale, which looks at how much the individual feels appreciative of the partner"
+2448,cpw_CouplesSelfExpansion,Appreciated,Background,"Appreciation Scale: Appreciatedsubscale, which looks at how much the individual feels appreciated by the partner"
+2449,cpw_CouplesSelfExpansion,RelGoals_Approach,Background,Relationship Goals: Approach goals in the relationship (e.g. to make partner happy)
+2450,cpw_CouplesSelfExpansion,RelGoals_Avoidance,Background,Relationship Goals: Avoidance goals in the relationship (e.g. to avoid making partner angry)
+2451,cpw_CouplesSelfExpansion,GoalCompatibility,Background,Perceptions of the compatibility of personal goals with the partner's goals
+2452,cpw_CouplesSelfExpansion,RelationalInterdependence,Background,Degree of interdependence in relationship
+2453,cpw_CouplesSelfExpansion,PassionateLoveScale,Background,Passionate Love Scale
+2454,cpw_CouplesSelfExpansion,InitiatorStyle_Self,Background,Initiator Style--Self Ratings
+2455,cpw_CouplesSelfExpansion,InitiatorStyle_Partner,Background,Initiator Style--Partner Ratings
+2456,cpw_CouplesSelfExpansion,SexualCommunalStrength,Background,Sexual Communal Strength--how motivated to care for a partner's sexual needs
+2457,cpw_CouplesSelfExpansion,SexualDesire,Background,Sexual Desire
+2458,cpw_CouplesSelfExpansion,SexualSatisfaction,Background,Sexual Satisfaction
+2459,cpw_CouplesSelfExpansion,PersonalExpansion_novelty,Background,Personal Expansion Questionnaire--Novelty subscale
+2460,cpw_CouplesSelfExpansion,PersonalExpansion_augmentation,Background,Personal Expansion Questionnaire--Augmentation subscale
+2461,cpw_CouplesSelfExpansion,PersonalExpansion_total,Background,Personal Expansion Questionnaire--total score
+2462,cpw_CouplesSelfExpansion,CommunalOrientation,Background,Communal orientation--General predisposition to act with care towards othrs
+2463,cpw_CouplesSelfExpansion,SWL,Background,Satisfaction with Life
+2465,cpw_CouplesSelfExpansion,UnmitigatedCommunion,Background,Unmitigated Communion
+2466,cpw_CouplesSelfExpansion,BFI_E,Background,Big Five--Extraversion
+2467,cpw_CouplesSelfExpansion,BFI_O,Background,Big Five--Openness to Expereince
+2468,cpw_CouplesSelfExpansion,BFI_A,Background,Big Five--Agreeableness
+2469,cpw_CouplesSelfExpansion,BFI_C,Background,Big Five--Conscientiousness
+2470,cpw_CouplesSelfExpansion,BFI_N,Background,Big Five--Neuroticism
+2471,cpw_CouplesSelfExpansion,Attachment_Avoidance,Background,Attachment Scale--Avoidance subscale
+2472,cpw_CouplesSelfExpansion,Attachment_Anxiety,Background,Attachment Scale--Anxiety subscale
+2473,cpw_CouplesSelfExpansion,Baseline_PositiveEmotions,Diary,General Positive Emotions
+2474,cpw_CouplesSelfExpansion,Baseline_NegativeEmotions,Diary,General Negative Emotions
+2475,cpw_CouplesSelfExpansion,PartnerSelfExpand_PositiveEmotions,Diary,Positive emotions during self expansion event with partner
+2476,cpw_CouplesSelfExpansion,PartnerSelfExpand_NegativeEmotions,Diary,Negative emotions during self expansion event with partner
+2477,cpw_CouplesSelfExpansion,AloneSelfExpand_PositiveEmotions,Diary,Positive emotions during self expansion event without partner
+2478,cpw_CouplesSelfExpansion,AloneSelfExpand_NegativeEmotions,Diary,Negative emotions during self expansion event without partner
+2479,cpw_CouplesSelfExpansion,PartnerPositiveEvent_PositiveEmotions,Diary,Positive emotions during positive event with partner
+2480,cpw_CouplesSelfExpansion,PartnerPositiveEvent_NegativeEmotions,Diary,Negative emotions during positive event with partner
+2481,cpw_CouplesSelfExpansion,AlonePositiveEvent_PositiveEmotions,Diary,Positive emotions during positive event without partner
+2482,cpw_CouplesSelfExpansion,AlonePositiveEvent_NegativeEmotions,Diary,Negative emotions during positive event without partner
+2483,cpw_CouplesSelfExpansion,PartnerSelfExpand_SelfExpansion,Diary,Degree of self expansion during self-expanding event with partner
+2484,cpw_CouplesSelfExpansion,AloneSelfExpand_SelfExpansion,Diary,Degree of self expansion during self-expanding event without partner
+2485,cpw_CouplesSelfExpansion,PartnerSelfExpand_ApproachMotives,Diary,Approach motives for self expansion event with partner
+2486,cpw_CouplesSelfExpansion,PartnerSelfExpand_AvoidanceMotives,Diary,Avoidance motives for self expansion event with partner
+2487,cpw_CouplesSelfExpansion,AloneSelfExpand_ApproachMotives,Diary,Approach motives for self expansion event without partner
+2488,cpw_CouplesSelfExpansion,AloneSelfExpand_AvoidanceMotives,Diary,Avoidance motives for self expansion event without partner
+2489,cpw_CouplesSelfExpansion,PartnerPositiveEvent_ApproachMotives,Diary,Approach motives for positive event with partner
+2490,cpw_CouplesSelfExpansion,PartnerPositiveEvent_AvoidanceMotives,Diary,Avoidance motives for positive event with partner
+2491,cpw_CouplesSelfExpansion,AlonePositiveEvent_ApproachMotives,Diary,Approach motives for positive event without partner
+2492,cpw_CouplesSelfExpansion,AlonePositiveEvent_AvoidanceMotives,Diary,Avoidance motives for positive event without partner
+2493,cpw_CouplesSelfExpansion,Sex_ApproachMotives,Diary,Approach motives for sex
+2494,cpw_CouplesSelfExpansion,Sex_AvoidancehMotives,Diary,Avoidance motives for sex
+2495,cpw_CouplesSelfExpansion,Kind_MeForPartner,Diary,How much caring/kind acts I did for my partner today
+2496,cpw_CouplesSelfExpansion,Kind_PartnerForMe,Diary,How much caring/kind acts I believe my partner did for me today
+2497,cpw_CouplesSelfExpansion,FL1_PerceivedQuality_RelSatisfaction,FollowUp1,Perceived Relationship Quality Questionnaire: Relationship Satisfaction subscale
+2498,cpw_CouplesSelfExpansion,FL1_PerceivedQuality_Commitment,FollowUp1,Perceived Relationship Quality Questionnaire: Commitment subscale
+2499,cpw_CouplesSelfExpansion,FL1_PerceivedQuality_Intimacy,FollowUp1,Perceived Relationship Quality Questionnaire: Intimacy subscale
+2500,cpw_CouplesSelfExpansion,FL1_PerceivedQuality_Trust,FollowUp1,Perceived Relationship Quality Questionnaire: Trust subscale
+2501,cpw_CouplesSelfExpansion,FL1_PerceivedQuality_Passion,FollowUp1,Perceived Relationship Quality Questionnaire: Passion subscale
+2502,cpw_CouplesSelfExpansion,FL1_PerceivedQuality_Love,FollowUp1,Perceived Relationship Quality Questionnaire: Love subscale
+2503,cpw_CouplesSelfExpansion,FL1_PerceivedQuality_Total,FollowUp1,Perceived Relationship Quality Questionnaire: Average across all subscales
+2504,cpw_CouplesSelfExpansion,FL1_CommunalStrength,FollowUp1,Communal Strength--Degree of motivation to care for a particular partner's needs uncontingently
+2505,cpw_CouplesSelfExpansion,FL1_Appreciative,FollowUp1,"Appreciation Scale: Appreciative subscale, which looks at how much the individual feels appreciative of the partner"
+2506,cpw_CouplesSelfExpansion,FL1_Appreciated,FollowUp1,"Appreciation Scale: Appreciatedsubscale, which looks at how much the individual feels appreciated by the partner"
+2507,cpw_CouplesSelfExpansion,FL_Power,FollowUp1,Capacity for power in relationship
+2508,cpw_CouplesSelfExpansion,FL1_SexualDesire,FollowUp1,Sexual Desire
+2509,cpw_CouplesSelfExpansion,FL1_SexualSatisfaction,FollowUp1,Sexual Satisfaction
+2510,cpw_CouplesSelfExpansion,FL1_SexualCommunalStrength,FollowUp1,Sexual Communal Strength--how motivated to care for a partner's sexual needs
+2511,cpw_CouplesSelfExpansion,FL2_PerceivedQuality_RelSatisfaction,FollowUp2,Perceived Relationship Quality Questionnaire: Relationship Satisfaction subscale
+2512,cpw_CouplesSelfExpansion,FL2_PerceivedQuality_Commitment,FollowUp2,Perceived Relationship Quality Questionnaire: Commitment subscale
+2513,cpw_CouplesSelfExpansion,FL2_PerceivedQuality_Intimacy,FollowUp2,Perceived Relationship Quality Questionnaire: Intimacy subscale
+2514,cpw_CouplesSelfExpansion,FL2_PerceivedQuality_Trust,FollowUp2,Perceived Relationship Quality Questionnaire: Trust subscale
+2515,cpw_CouplesSelfExpansion,FL2_PerceivedQuality_Passion,FollowUp2,Perceived Relationship Quality Questionnaire: Passion subscale
+2516,cpw_CouplesSelfExpansion,FL2_PerceivedQuality_Love,FollowUp2,Perceived Relationship Quality Questionnaire: Love subscale
+2517,cpw_CouplesSelfExpansion,FL2_PerceivedQuality_Total,FollowUp2,Perceived Relationship Quality Questionnaire: Average across all subscales
+2518,cpw_CouplesSelfExpansion,FL2_CommunalStrength,FollowUp2,Communal Strength--Degree of motivation to care for a particular partner's needs uncontingently
+2519,cpw_CouplesSelfExpansion,FL2_Appreciative,FollowUp2,"Appreciation Scale: Appreciative subscale, which looks at how much the individual feels appreciative of the partner"
+2520,cpw_CouplesSelfExpansion,FL2_Appreciated,FollowUp2,"Appreciation Scale: Appreciatedsubscale, which looks at how much the individual feels appreciated by the partner"
+2521,cpw_CouplesSelfExpansion,FL2_SexualDesire,FollowUp2,Sexual Desire
+2522,cpw_CouplesSelfExpansion,FL2_SexualSatisfaction,FollowUp2,Sexual Satisfaction
+2523,cpw_CouplesSelfExpansion,FL2_SexualCommunalStrength,FollowUp2,Sexual Communal Strength--how motivated to care for a partner's sexual needs
